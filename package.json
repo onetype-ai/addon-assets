@@ -2,6 +2,12 @@
     "name": "addon-assets",
     "version": "0.1.0",
     "type": "module",
+    "license": "MIT",
+    "author": "Dejan Tomic <hi@iamdejan.com>",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/onetype-ai/addon-assets.git"
+    },
     "main": "./back/load.js",
     "imports": {
         "#assets/*": "./back/*"
