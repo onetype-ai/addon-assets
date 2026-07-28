@@ -1,0 +1,13 @@
+{
+    "name": "addon-assets",
+    "version": "0.1.0",
+    "type": "module",
+    "main": "./back/load.js",
+    "imports": {
+        "#assets/*": "./back/*"
+    },
+    "exports": {
+        ".": "./back/load.js",
+        "./*": "./*"
+    }
+}

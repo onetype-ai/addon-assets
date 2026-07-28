@@ -1,0 +1,10 @@
+{
+    "type": "addon",
+    "slug": "onetype/addon/assets",
+    "name": "Assets",
+    "description": "Collects JS and CSS items registered by other addons and builds them into combined /assets/build.js and /assets/build.css bundles served over HTTP.",
+    "icon": "deployed_code",
+    "color": "rgba(251, 191, 36, 1)",
+    "status": "enabled",
+    "depends": []
+}
